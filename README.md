@@ -37,8 +37,8 @@ Maintain [intervolga.migrato](https://github.com/intervolga/intervolga.migrato)
   <a href="https://www.intervolga.ru/people/aleksandr_p/" target="blank">
     <img align="center" src="/img/iv-icon.png" alt="aleksandr_p" height="40" width="40" />
   </a>
-  <a href="https://linkedin.com/in/александр-петренко-b5b9721a2" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="александр-петренко-b5b9721a2" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/petrenko-alex/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="petrenko-alex" height="30" width="30" />
   </a>
   <a href="https://stackoverflow.com/users/7576794" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7576794" height="30" width="30" />
