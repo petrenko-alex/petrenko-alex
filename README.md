@@ -49,6 +49,7 @@ Maintain [intervolga.migrato](https://github.com/intervolga/intervolga.migrato)
 
 <details>
   <summary>My story</summary>
+<br>  
   
 📅 **2013 - 2019**  
   
@@ -75,6 +76,6 @@ For more than 3 years I have been working as a Middle Backend developer at [INTE
 We develop sites using Bitrix framework.  
 I mostly work on the development and support of online shops for small and medium-sized businesses.
 Also projects not related to e-commerce.  
-Sometimes [I write articles] (https://www.intervolga.ru/blog/?authorID=61160), work on modules and internal company projects.
-As of 2020 I took part in the development of over 15 projects. Some of them are in my [portfolio] (https://www.intervolga.ru/people/aleksandr_p/) on the company's website.
+Sometimes [I write articles](https://www.intervolga.ru/blog/?authorID=61160), work on modules and internal company projects.  
+As of 2020 I took part in the development of over 15 projects. Some of them are in my [portfolio](https://www.intervolga.ru/people/aleksandr_p/) on the company's website.
 </details>
