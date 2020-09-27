@@ -71,6 +71,7 @@ My Bachelor thesis: [Interactive Timetable](https://github.com/petrenko-alex/int
 My Master thesis: [AR-Nav](https://github.com/petrenko-alex/ar-nav) - mobile application based on web technology stack. Combines a set of modern technologies and tools.  
 
 📅 **2017 - today**  
+  
 For more than 3 years I have been working as a Middle Backend developer at [INTERVOLGA](https://github.com/intervolga).
 
 We develop sites using Bitrix framework.  
