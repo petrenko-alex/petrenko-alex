@@ -34,6 +34,9 @@ Maintain [intervolga.migrato](https://github.com/intervolga/intervolga.migrato)
   
 <br/><br/>
 <p align="center">
+  <a href="https://dev.1c-bitrix.ru/learning/resume.php?ID=94618364-1385449" target="blank">
+    <img align="center" src="/img/bitrix-icon.png" alt="94618364-1385449" height="30" width="30" />
+  </a>
   <a href="https://www.intervolga.ru/people/aleksandr_p/" target="blank">
     <img align="center" src="/img/iv-icon.png" alt="aleksandr_p" height="40" width="40" />
   </a>
