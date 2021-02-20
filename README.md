@@ -17,22 +17,19 @@ Maintain [intervolga.migrato](https://github.com/intervolga/intervolga.migrato)
 
 ## Languages & Tools
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <svg class="devicon-git-plain" viewBox="0 0 128 128">
-  <path fill="#F34F29" d="M124.742,58.378L69.625,3.264c-3.172-3.174-8.32-3.174-11.497,0L46.685,14.71l14.518,14.518c3.375-1.139,7.243-0.375,9.932,2.314c2.703,2.706,3.462,6.607,2.293,9.993L87.42,55.529c3.385-1.167,7.292-0.413,9.994,2.295c3.78,3.777,3.78,9.9,0,13.679c-3.78,3.78-9.901,3.78-13.683,0c-2.842-2.844-3.545-7.019-2.105-10.521L68.578,47.933l-0.002,34.341c0.922,0.455,1.791,1.063,2.559,1.828c3.779,3.777,3.779,9.898,0,13.683c-3.779,3.777-9.904,3.777-13.679,0c-3.778-3.784-4.088-9.905-0.311-13.683C58.079,83.169,59,82.464,60,81.992V47.333c-1-0.472-1.92-1.172-2.856-2.111c-2.861-2.86-3.396-7.06-1.928-10.576L40.983,20.333L3.229,58.123c-3.175,3.177-3.155,8.325,0.02,11.5l55.126,55.114c3.173,3.174,8.325,3.174,11.503,0l54.86-54.858C127.913,66.703,127.916,61.552,124.742,58.378z"/>
-</svg>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="/img/bitrix-icon.png" alt="laravel" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" alt="php" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" alt="mysql" width="40" height="40"/>
+  <img src="/img/bitrix-icon.png" alt="bitrix" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" alt="vuejs" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vuetify.svg" alt="vuetify" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" alt="nginx" width="40" height="40"/>
 </p>
   
 <br/><br/>
