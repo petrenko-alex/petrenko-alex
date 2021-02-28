@@ -9,6 +9,7 @@ Develop and support online shops for small and medium-sized businesses
 Maintain [intervolga.migrato](https://github.com/intervolga/intervolga.migrato)  
 3+ years  
 15+ projects  
+[Details...](/CAREER_INTERVOLGA.md)
 
 ## Projects I'm proud of 🎉👏
 [Interactive Timetable](https://github.com/petrenko-alex/interactive-timetable-for-autists) - app for Android device build using Xamarin framework. App is used in real life and helps children and adults with their daily routine.  
@@ -81,5 +82,6 @@ We develop sites using Bitrix framework.
 I mostly work on the development and support of online shops for small and medium-sized businesses.
 Also projects not related to e-commerce.  
 Sometimes [I write articles](https://www.intervolga.ru/blog/?authorID=61160), work on modules and internal company projects.  
-As of 2020 I took part in the development of over 15 projects. Some of them are in my [portfolio](https://www.intervolga.ru/people/aleksandr_p/) on the company's website.
+As of 2020 I took part in the development of over 15 projects. Some of them are in my [portfolio](https://www.intervolga.ru/people/aleksandr_p/) on the company's website.  
+Check out some [details...](/CAREER_INTERVOLGA.md)
 </details>
