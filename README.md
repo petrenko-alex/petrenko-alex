@@ -77,8 +77,8 @@ I mostly work on the development and support of online shops for small and mediu
 Also projects not related to e-commerce.  
 Sometimes [I write articles](https://www.intervolga.ru/blog/?authorID=61160), work on modules and internal company projects.  
 As of 2020 I took part in the development of over 15 projects. Some of them are in my [portfolio](https://www.intervolga.ru/people/aleksandr_p/) on the company's website.  
-Check out some [details...](/CAREER_INTERVOLGA.md)
+Check out some [details...](/CAREER_INTERVOLGA.md)  
+  
+📅 **2021 - today**  
+WIP. Come back soon... 
 </details>
-
-📅 **2021 - today**
-WIP. Come back soon...
