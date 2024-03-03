@@ -19,27 +19,21 @@ I am at the origins of "Magnit.Delivery" product. It's been a long and challengi
 ## Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/go.svg" alt="go" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/apachekafka.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/symfony.svg" alt="symfony" width="40" height="40"/>
   <img src="/img/bitrix-icon.png" alt="bitrix" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" alt="vuejs" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vuetify.svg" alt="vuetify" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/prometheus.svg" alt="prometheus" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/docker.svg" alt="docker" width="40" height="40"/> 
+
 </p>
   
 <br/><br/>
 <p align="center">
   <a href="https://dev.1c-bitrix.ru/learning/resume.php?ID=94618364-1385449" target="blank">
     <img align="center" src="/img/bitrix-icon.png" alt="94618364-1385449" height="30" width="30" />
-  </a>
-  <a href="https://www.intervolga.ru/people/aleksandr_p/" target="blank">
-    <img align="center" src="/img/iv-icon.png" alt="aleksandr_p" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/petrenko-alex/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="petrenko-alex" height="30" width="30" />
@@ -74,7 +68,7 @@ Studying at university I developed a couple of projects I am proud of:
 My Bachelor thesis: [Interactive Timetable](https://github.com/petrenko-alex/interactive-timetable-for-autists) - app for Android device build using Xamarin framework. App is used in real life and helps children and adults.  
 My Master thesis: [AR-Nav](https://github.com/petrenko-alex/ar-nav) - mobile application based on web technology stack. Combines a set of modern technologies and tools.  
 
-📅 **2017 - today**  
+📅 **2017 - 2021**  
   
 For more than 3 years I have been working as a Middle Backend developer at [INTERVOLGA](https://github.com/intervolga).
 
@@ -85,3 +79,6 @@ Sometimes [I write articles](https://www.intervolga.ru/blog/?authorID=61160), wo
 As of 2020 I took part in the development of over 15 projects. Some of them are in my [portfolio](https://www.intervolga.ru/people/aleksandr_p/) on the company's website.  
 Check out some [details...](/CAREER_INTERVOLGA.md)
 </details>
+
+📅 **2021 - today**
+WIP. Come back soon...
