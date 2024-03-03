@@ -9,7 +9,7 @@ Develop and support online shops for small and medium-sized businesses
 Maintain [intervolga.migrato](https://github.com/intervolga/intervolga.migrato)  
 3+ years  
 15+ projects  
-[Details...](/CAREER_INTERVOLGA.md)
+[Details...](/01_CAREER_INTERVOLGA.md)
 
 ## Projects I'm proud of 🎉👏
 [Interactive Timetable](https://github.com/petrenko-alex/interactive-timetable-for-autists) - app for Android device build using Xamarin framework. App is used in real life and helps children and adults with their daily routine.  
