@@ -3,13 +3,13 @@
 <img src="/img/profile-cover.png" alt="Alexander Petrenko profile cover. (not-only) Web Developer">
   
 ## My job 👨‍💻
-Middle Backend developer at [INTERVOLGA](https://github.com/intervolga)  
-Develop and support online shops for small and medium-sized businesses  
-[Write articles](https://www.intervolga.ru/blog/?authorID=61160)  
-Maintain [intervolga.migrato](https://github.com/intervolga/intervolga.migrato)  
-3+ years  
-15+ projects  
-[Details...](/01_CAREER_INTERVOLGA.md)
+Team Lead at [Lenvendo](https://github.com/lenvendo)  
+Lead OMS (order management system) team for 3 years. Product ["Magnit.Delivery"](https://promokod.magnit.ru/)
+I am at the origins of "Magnit.Delivery" product. It's been a long and challenging journey from the MVP stage to a fully functioning product. I'v been involved in the process of switching to SOA from monolith.
+  
+6+ years in development
+15+ projects, 1 product
+[Details...](/02_CAREER_LENVENDO.md)
 
 ## Projects I'm proud of 🎉👏
 [Interactive Timetable](https://github.com/petrenko-alex/interactive-timetable-for-autists) - app for Android device build using Xamarin framework. App is used in real life and helps children and adults with their daily routine.  
