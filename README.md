@@ -4,7 +4,7 @@
   
 ## My job 👨‍💻
 Team Lead at [Lenvendo](https://github.com/lenvendo)  
-Lead OMS (order management system) team for 3 years. Product ["Magnit.Delivery"](https://promokod.magnit.ru/)
+Lead OMS (order management system) team for 3 years. Product ["Magnit.Delivery"](https://promokod.magnit.ru/)  
 I am at the origins of "Magnit.Delivery" product. It's been a long and challenging journey from the MVP stage to a fully functioning product. I'v been involved in the process of switching to SOA from monolith.
   
 6+ years in development
