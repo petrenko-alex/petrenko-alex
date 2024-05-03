@@ -87,12 +87,12 @@ I have been working as a Team Lead of the OMS (order management system) team for
 Many stages and milestones of product development have been passed, the rotation of management and team members, large team size.
 
 I am proud of my first long-term successful leading experience in a highload project.  
-[Details...](/01_CAREER_LENVENDO.md)
+[details...](/01_CAREER_LENVENDO.md)
 
-📅 **2023 - now**
-In 2023, I completed "Golang Developer. Professional" course in [OTUS](https://otus.ru/).
-Successfully developed the graduation project - [api-rate-limiter](https://github.com/petrenko-alex/api-rate-limiter).
-
-I'm changing the stack from PHP to GO. Leaving Bitrix CMS.
-Focus on product development, because it's more congenial than the project one.
+📅 **2023 - now**  
+In 2023, I completed "Golang Developer. Professional" course in [OTUS](https://otus.ru/).  
+Successfully developed the graduation project - [api-rate-limiter](https://github.com/petrenko-alex/api-rate-limiter).  
+  
+I'm changing the stack from PHP to GO. Leaving Bitrix CMS.  
+Focus on product development, because it's more congenial than the project one.  
 </details>
