@@ -32,13 +32,13 @@ I am at the origins of "Magnit.Delivery" product. It's been a long and challengi
   
 <br/><br/>
 <p align="center">
-  <a href="https://dev.1c-bitrix.ru/learning/resume.php?ID=94618364-1385449" target="blank">
+  <a href="https://dev.1c-bitrix.ru/learning/resume.php?ID=94618364-1385449" target="_blank">
     <img align="center" src="/img/bitrix-icon.png" alt="94618364-1385449" height="30" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/petrenko-alex/" target="blank">
+  <a href="https://www.linkedin.com/in/petrenko-alex/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="petrenko-alex" height="30" width="30" />
   </a>
-  <a href="https://stackoverflow.com/users/7576794" target="blank">
+  <a href="https://stackoverflow.com/users/7576794" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7576794" height="30" width="30" />
   </a>
 </p>
