@@ -77,7 +77,7 @@ I mostly worked on the development and support of online shops for small and med
 Also had projects not related to e-commerce.  
 I wrote articles, work on modules and internal company projects.  
 As of 2020 I took part in the development of over 15 projects.  
-Check out some [details...](/02_CAREER_INTERVOLGA.md)  
+Check out some [details...](/01_CAREER_INTERVOLGA.md)  
   
 📅 **2021 - today**  
 WIP. Come back soon... 
