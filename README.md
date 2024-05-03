@@ -79,6 +79,20 @@ I wrote articles, work on modules and internal company projects.
 As of 2020 I took part in the development of over 15 projects.  
 Check out some [details...](/01_CAREER_INTERVOLGA.md)  
   
-📅 **2021 - today**  
-WIP. Come back soon... 
+📅 **2021 - 2024**  
+Starting from 2021, I have been working at [Lenvendo](https://github.com/lenvendo) building product [Magnit.Delivery](https://promokod.magnit.ru/).
+
+I started as a developer. Than I switched to Team Lead after a couple of months.
+I have been working as a Team Lead of the OMS (order management system) team for more than 3 years.
+Many stages and milestones of product development have been passed, the rotation of management and team members, large team size.
+
+I am proud of my first long-term successful leading experience in a highload project.
+[Details...](/01_CAREER_LENVENDO.md)
+
+📅 **2023 - now**
+In 2023, I completed "Golang Developer. Professional" course in [OTUS](https://otus.ru/).
+Successfully developed the graduation project - [api-rate-limiter](https://github.com/petrenko-alex/api-rate-limiter).
+
+I'm changing the stack from PHP to GO. Leaving Bitrix CMS.
+Focus on product development, because it's more congenial than the project one.
 </details>
