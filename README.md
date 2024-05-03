@@ -87,7 +87,7 @@ I have been working as a Team Lead of the OMS (order management system) team for
 Many stages and milestones of product development have been passed, the rotation of management and team members, large team size.
 
 I am proud of my first long-term successful leading experience in a highload project.  
-[details...](/01_CAREER_LENVENDO.md)
+[details...](/02_CAREER_LENVENDO.md)
 
 📅 **2023 - now**  
 In 2023, I completed "Golang Developer. Professional" course in [OTUS](https://otus.ru/).  
