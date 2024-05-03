@@ -86,7 +86,7 @@ I started as a developer. Than I switched to Team Lead after a couple of months.
 I have been working as a Team Lead of the OMS (order management system) team for more than 3 years.
 Many stages and milestones of product development have been passed, the rotation of management and team members, large team size.
 
-I am proud of my first long-term successful leading experience in a highload project.
+I am proud of my first long-term successful leading experience in a highload project.  
 [Details...](/01_CAREER_LENVENDO.md)
 
 📅 **2023 - now**
