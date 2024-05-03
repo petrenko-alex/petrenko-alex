@@ -70,13 +70,13 @@ My Master thesis: [AR-Nav](https://github.com/petrenko-alex/ar-nav) - mobile app
 
 📅 **2017 - 2021**  
   
-For more than 3 years I have been working as a Middle Backend developer at [INTERVOLGA](https://github.com/intervolga).
+From 2017 to 2021 I worked as a Middle Backend developer at [INTERVOLGA](https://github.com/intervolga).
 
-We develop sites using Bitrix framework.  
-I mostly work on the development and support of online shops for small and medium-sized businesses.
-Also projects not related to e-commerce.  
-Sometimes [I write articles](https://www.intervolga.ru/blog/?authorID=61160), work on modules and internal company projects.  
-As of 2020 I took part in the development of over 15 projects. Some of them are in my [portfolio](https://www.intervolga.ru/people/aleksandr_p/) on the company's website.  
+Was focused on developing sites using Bitrix framework.  
+I mostly worked on the development and support of online shops for small and medium-sized businesses.
+Also had projects not related to e-commerce.  
+I wrote articles, work on modules and internal company projects.  
+As of 2020 I took part in the development of over 15 projects.  
 Check out some [details...](/CAREER_INTERVOLGA.md)  
   
 📅 **2021 - today**  
